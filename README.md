@@ -16,4 +16,5 @@ Add column adds column to the selected column while delete column deletes from t
 Connect to the HTTP server using the command - http-server -p 3000 . or directly open the index.html page using the browser to check the final webpage output. 
 Make sure changes are saved constantly. 
 
+cooool
 
